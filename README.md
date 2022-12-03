@@ -12,4 +12,4 @@
 </div>
 <br/>
 
-![Timóteo GitHub stats](https://github-readme-stats.vercel.app/api?username=TImoteoVieira&show_icons=true&theme=dark&count_private=true)
+![Timóteo GitHub stats](https://github-readme-stats.vercel.app/api?username=TImoteoVieira&show_icons=true&theme=transparent&count_private=true)
