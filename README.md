@@ -11,7 +11,7 @@
 <!--   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> -->
 </div>
 <br/>
-
+## 📈 Estatísticas:
 [![Timóteo GitHub stats](https://github-readme-stats.vercel.app/api?username=TImoteoVIeira&count_private=true&show_icons=true&theme=react&bg_color=00000000&hide_border=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TImoteoVieira&theme=react&bg_color=00000000&hide_border=true&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
