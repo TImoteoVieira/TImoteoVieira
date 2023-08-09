@@ -12,7 +12,7 @@
 </div>
 <br/>
 
-![Timóteo GitHub stats](https://github-readme-stats.vercel.app/api?username=TImoteoVIeira&count_private=true&show_icons=true&theme=react&bg_color=00000000&hide_border=true&rank_icon=github)]
+![Timóteo GitHub stats](https://github-readme-stats.vercel.app/api?username=TImoteoVIeira&count_private=true&show_icons=true&theme=react&bg_color=00000000&hide_border=true&rank_icon=github)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TImoteoVieira&theme=react&bg_color=00000000&hide_border=true&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
